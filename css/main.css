@@ -1,0 +1,30 @@
+/*$tipografia: raleway,sans-serif;*/
+@mixins galeria {
+  padding: 40x 0px; }
+.fondoImagen {
+  background-image: url("../ejercicio/images/back-lock.jpg");
+  color: white;
+  padding: 200px 0px 190px 0px;
+  font-size: 30px; }
+
+hr {
+  border: 5px;
+  height: 0;
+  width: 60px;
+  box-shadow: 0 1px 5px 1px black; }
+
+.video {
+  background-image: url("../ejercicio/images/bg3.jpg");
+  color: white; }
+  .video .videito {
+    padding: 30px 0px 30px 0px; }
+
+/*
+body {
+	background-image: url("../image/13267862_10153685807771973_2671341438060082488_n.jpg"),
+	url("../image/13227038_10153685807816973_1330493536409003322_n.jpg");
+	background-position: top 300px left, top 300px right;
+	background-repeat: no-repeat;
+}*/
+
+/*# sourceMappingURL=main.css.map */
